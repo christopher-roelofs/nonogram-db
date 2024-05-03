@@ -1,0 +1,30 @@
+title "Car"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+4
+6
+1, 1, 2
+1, 1, 1
+9
+1, 8
+10
+10
+2, 4, 2
+3, 3
+
+columns
+4
+1, 4
+4, 1
+9
+2, 5
+9
+2, 6
+3, 4, 1
+9
+5

@@ -6,9 +6,11 @@ It's a popular type of puzzle, and most platforms have several apps that let use
 
 ## Licenses
 
-However, nonogram puzzles that are freely distributable are actually hard to find.  Many web sites let users create nonograms, but few (none?) allow those nonograms to be placed under any sort of license that allows redistribution.
+However, nonogram puzzles that are freely distributable are actually hard to find. Many web sites let users create nonograms, but few (none?) allow those nonograms to be placed under any sort of license that allows redistribution.
 
 The few open source nonogram programs that do ship with puzzles either have a paltry amount by default or ship clearly dubious-in-origin puzzles (i.e. ripped straight from a commercial game).
+
+This collection also contains levels from copyrighted games to preserve them in an open format so they can be enjoyed outside of their original medium.
 
 This database is an attempt to improve on the status quo.
 

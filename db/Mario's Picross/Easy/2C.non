@@ -1,0 +1,30 @@
+title "Spade"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+2
+4
+6
+8
+10
+10
+10
+2, 2, 2
+4
+6
+
+columns
+3
+5
+6, 1
+6, 2
+10
+10
+6, 2
+6, 1
+5
+3

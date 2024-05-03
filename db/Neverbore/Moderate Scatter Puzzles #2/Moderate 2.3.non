@@ -1,0 +1,29 @@
+
+catalogue "generate.go with seed 38"
+title "Moderate 2.3"
+by "Michael Terry"
+copyright "© 2015 Michael Terry"
+license CC-BY-SA-4.0
+height 10
+width 5
+
+rows
+4
+2,1
+5
+1,2
+1
+1,1
+2
+1
+1
+1,1
+
+columns
+2,3
+4,2
+1,1,1,1,1
+1,2
+4,1
+
+goal "01111110011111101011001000100101100100001000010100"

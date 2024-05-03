@@ -1,0 +1,30 @@
+title "Crescent"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+5
+7
+4, 1
+4
+4
+4
+4
+4, 1
+7
+4
+
+columns
+4
+8
+9
+10
+3, 3
+2, 2
+2, 2
+1, 1
+1, 1
+0

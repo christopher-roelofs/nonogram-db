@@ -1,0 +1,24 @@
+
+catalogue "generate.go with seed 9"
+title "Easy 2.2"
+by "Michael Terry"
+copyright "© 2015 Michael Terry"
+license CC-BY-SA-4.0
+height 5
+width 5
+
+rows
+1,2
+1
+1,1,1
+2
+5
+
+columns
+1,1,1
+1,2
+3
+1,1
+1,1,1
+
+goal "1001101000101010110011111"

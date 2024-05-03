@@ -1,0 +1,30 @@
+title "Dollar Sign"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+1, 1
+9
+10
+2, 1, 1
+9
+9
+1, 1, 2
+10
+10
+1, 1
+
+columns
+3, 2
+5, 2
+2, 2, 2
+10
+2, 2, 2
+2, 2, 2
+10
+2, 2, 2
+2, 5
+2, 4

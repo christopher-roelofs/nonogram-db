@@ -1,0 +1,24 @@
+
+catalogue "generate.go with seed 770"
+title "Hard 1.2"
+by "Michael Terry"
+copyright "© 2015 Michael Terry"
+license CC-BY-SA-4.0
+height 5
+width 5
+
+rows
+1
+2
+3
+3
+1
+
+columns
+1
+2
+1,2
+1,1
+1,1
+
+goal "0010000011111000111000001"

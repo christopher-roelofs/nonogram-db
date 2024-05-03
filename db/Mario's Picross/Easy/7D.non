@@ -1,0 +1,40 @@
+title "Wood Stove"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 15
+height 15
+
+rows
+2
+2
+2
+9
+3
+5
+7
+9
+1, 4
+1, 2, 4
+1, 4
+9
+7
+5
+9
+
+columns
+0
+0
+0
+1, 5, 1
+1, 2, 2, 1
+4, 3, 1, 4
+8, 1, 4
+5, 4
+12
+1, 10
+1, 7, 1
+1, 5, 1
+0
+0
+0

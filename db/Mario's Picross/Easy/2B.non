@@ -1,0 +1,30 @@
+title "Diamond"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+2
+4
+6
+8
+10
+10
+8
+6
+4
+2
+
+columns
+2
+4
+6
+8
+10
+10
+8
+6
+4
+2

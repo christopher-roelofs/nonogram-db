@@ -1,0 +1,30 @@
+title "Umbrella"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+2
+6
+8
+10
+10
+1, 1, 1, 1, 1
+1
+1
+1, 1
+2
+
+columns
+3
+3
+5
+4
+9
+5, 1
+4, 2
+5
+3
+3

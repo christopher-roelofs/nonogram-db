@@ -1,0 +1,40 @@
+title "Locomotive"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 15
+height 15
+
+rows
+0
+0
+9
+7
+2, 2, 3
+2, 2, 3
+2, 2, 3
+15
+15
+15
+15
+3, 4, 2
+3, 1, 4, 1, 2
+1, 1, 1, 1
+5, 5
+
+columns
+1, 6
+11
+13
+2, 4, 1
+2, 4, 1, 1
+2, 4, 1
+13
+11
+1, 6
+8
+7, 1
+7, 1, 1
+7, 1
+8
+6

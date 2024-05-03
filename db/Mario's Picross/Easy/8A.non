@@ -1,0 +1,40 @@
+title "Chair"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 15
+height 15
+
+rows
+4
+6
+3, 3
+1, 1, 1, 1
+1, 1, 1, 1
+1, 1, 1, 1
+1, 1, 1, 1
+8
+9
+3, 2
+1, 8
+1, 1, 1, 1
+1, 1, 1, 1
+1, 1, 1, 1
+1, 1
+
+columns
+0
+0
+0
+12
+2, 3
+11
+2, 2, 5
+2, 2, 1
+9, 1
+2, 2, 1
+7, 4
+3
+6
+0
+0

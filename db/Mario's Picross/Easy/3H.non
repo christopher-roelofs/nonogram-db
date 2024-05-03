@@ -1,0 +1,30 @@
+title "Doughnut"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+5
+3, 2
+1, 2
+2, 4, 1
+1, 1, 1, 1
+1, 1, 1, 1
+1, 4, 2
+2, 1
+2, 3
+5
+
+columns
+5
+3, 2
+1, 2
+2, 4, 1
+1, 1, 1, 1
+1, 1, 1, 1
+1, 4, 2
+2, 1
+2, 3
+5

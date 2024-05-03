@@ -1,0 +1,30 @@
+title "Glove"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+1, 1, 1
+1, 1, 1, 1
+1, 1, 1, 1
+1, 1, 1, 1
+7
+2, 7
+10
+9
+8
+6
+
+columns
+2
+3
+3
+10
+6
+10
+6
+10
+6
+8

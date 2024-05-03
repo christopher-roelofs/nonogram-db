@@ -1,0 +1,30 @@
+title "Question Mark"
+by "Jupiter Corporation, Creatures"
+collection "Mario's Picross - Easy"
+copyright "1995 Jupiter Corporation, Creatures"
+width 10
+height 10
+
+rows
+8
+10
+2, 2
+2, 2
+5
+5
+2
+0
+2
+2
+
+columns
+3
+4
+2
+2
+2, 2, 2
+2, 3, 2
+2, 2
+2, 2
+6
+4
